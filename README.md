@@ -101,7 +101,6 @@ Talvez criar mais uma página introduzindo as pistas disponíveis.
 ## Author
 
 - Website - [muryllohenriq](https://github.com/muryllohenriq)
-- Frontend Mentor - [@muryllohenriq](https://www.frontendmentor.io/profile/muryllohenriq)
 - LinkedIn - [Muryllo Henrique](https://www.linkedin.com/in/muryllohenrique/)
 
 ## Acknowledgments
